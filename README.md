@@ -1,5 +1,4 @@
-Conteúdos abordados:
-        Criação do arquivo JavaScript com o nome: main.js;
+
         Desenvolvimento de eventos de interação que recebe dados
         passados pela pessoa usuária.
 
